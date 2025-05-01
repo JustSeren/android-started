@@ -20,7 +20,7 @@ This project is designed to help beginners understand:
    - Running and debugging applications.
 
 ## Medium Article
-You can find more details about the basics of layouts in my Medium article:[Android Desing Basic Layout](https://medium.com/p/855c7cdccf6d/edithttp:// "Android Desing Basic Layout")
+You can find more details about the basics of layouts in my Medium article:[Android Desing Basic Layout](https://medium.com/p/855c7cdccf6d/edit)
 
 ## Getting Started
 1. Clone the repository:
