@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">tasarim_calismasi</string>
+    <string name="app_name">Pizza!</string>
+    <string name="pizza_name">Vegan Pizza</string>
+    <string name="ingredient_choise">What Ingriendts Should on Your Vegan Pizza ?</string>
+    <string name="cheese_name">Cheese</string>
+    <string name="olive_name">Olive</string>
+    <string name="pepper_name">Pepper</string>
+    <string name="tomato_name">Tomato</string>
+    <string name="delivery_time">20 min</string>
+    <string name="delivery_time_header">Delivery</string>
+    <string name="discount_text">Order now and gain 10% discount !</string>
+    <string name="order_button_text">ORDER</string>
+    <string name="price_text">$5.95</string>
 </resources>

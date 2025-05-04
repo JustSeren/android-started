@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pizza!</string>
+    <string name="pizza_name">Vegan Pizza</string>
+    <string name="ingredient_choise">Pizzanızda neler olsun ?</string>
+    <string name="cheese_name">Peynir</string>
+    <string name="olive_name">Zeytin</string>
+    <string name="pepper_name">Biber</string>
+    <string name="tomato_name">Domates</string>
+    <string name="delivery_time">20 dk</string>
+    <string name="delivery_time_header">Teslimat</string>
+    <string name="discount_text">Şimdi sipariş ver %10 indirim kazan!</string>
+    <string name="order_button_text">Sipariş Et</string>
+    <string name="price_text">325₺</string>
+</resources>
